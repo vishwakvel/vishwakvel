@@ -25,9 +25,6 @@ My name is Vishwak Velamuri. I'm a student at the University of Maryland - Colle
   <a href="https://en.cppreference.com/w/c" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="36" height="36" alt="C" />
   </a>
-  <a href="https://www.nasm.us/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/assembly/assembly-original.svg" width="36" height="36" alt="Assembly" />
-  </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" />
   </a>
